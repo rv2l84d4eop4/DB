@@ -2,7 +2,7 @@
 /*start */
 @font-face {
 font-family: "kida";
-src: url("https://samz-site.com/assets/font/kida.ttf");
+src: url("https://rv2l84d4eop4.github.io/DB/assets/font/kida.ttf");
 }
 ::-webkit-scrollbar {
  display: none;
@@ -13,7 +13,7 @@ body {
 }
 h1 {
  background-color: transparent;
- font-size: 6em;
+ font-size: 4em;
  color: white;
  letter-spacing: 5px;
  text-align: center;
