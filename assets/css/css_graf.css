@@ -1,5 +1,6 @@
 body{
-    background-color: gray;
+    background-color: black;
+    font-family: 'kida';
   }
   h1{
     text-align: center;
@@ -19,6 +20,7 @@ body{
     padding: 5px 5px;
     text-align: center;
     display: inline-block;
+    font-family: 'kida';
   }
   #lightgallery {
     display: grid;
