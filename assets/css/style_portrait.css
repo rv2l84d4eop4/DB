@@ -17,13 +17,13 @@ h1 {
  color: white;
  letter-spacing: 5px;
  text-align: center;
- font-family: kida;
+font-family: "kida" , monospace;
  margin-bottom: -5px;
  margin-top: -25px;
 }
 .navigation {
     text-align: center; 
-    font-family: kida;
+    font-family: "kida" , monospace;
     font-size: 35px;
 }
 a:link,
